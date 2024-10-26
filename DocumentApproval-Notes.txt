@@ -18,7 +18,7 @@ D:\Inspiration-Apps\DocumentApproval
 user = inspirationdev1@gmail.com
 password = dev123@dev123
 
-
+*************Mongo DB********************
 key = application
 value = dev123@dev123
 
@@ -29,4 +29,20 @@ password = KCS2B6nxZRxeQl0P
 npm install mongodb
 
 mongodb+srv://inspirationdev1:KCS2B6nxZRxeQl0P@cluster0.9xsxy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+**********************************************
+Keep this in .env file
+MONGO = "mongodb+srv://inspirationdev1:KCS2B6nxZRxeQl0P@cluster0.9xsxy.mongodb.net/DocumentApproval?retryWrites=true&w=majority&appName=Cluster0"
 
+
+*****Git *****
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+git config --global user.email "inspirationdev1@gmail.com"
+  git config --global user.name "inspirationdev1"
+
+  git remote add origin https://github.com/inspirationdev1/DocumentApproval.git
+git branch -M main
+git push -u origin main
+
+********************
