@@ -1,0 +1,32 @@
+1) Developing the Mobile App React Native for Android Platform & IOS Platform.
+2) Backend API connecting the MongoDB NodeJs & ExpressJS connnecting to MongoDB.
+3) Admin Portal in React JS
+
+
+
+
+https://youtu.be/VAaUy_Moivw?si=OMFzp8KfgIJmPNzU
+
+
+1) Front end for Web Application/Portal
+2) Back End for API
+
+
+D:\Inspiration-Apps\DocumentApproval
+
+
+user = inspirationdev1@gmail.com
+password = dev123@dev123
+
+
+key = application
+value = dev123@dev123
+
+username = inspirationdev1
+password = KCS2B6nxZRxeQl0P
+
+
+npm install mongodb
+
+mongodb+srv://inspirationdev1:KCS2B6nxZRxeQl0P@cluster0.9xsxy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
