@@ -28,7 +28,6 @@ export const updateUser = async (req, res, next) => {
       { new: true }
     );
 
-    // const { password, ...rest } = updateUser._id;
     const { password, ...rest } = updateUser._doc;
 
     res.status(200).json(rest);

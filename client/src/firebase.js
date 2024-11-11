@@ -15,6 +15,7 @@ import { getAnalytics } from "firebase/analytics";
 //   appId: "1:80903729483:web:1fed56912836bd896cb8ce",
 //   // measurementId: "G-YW9X1Q4BPC",
 // };
+
 const firebaseConfig = {
   apiKey: "AIzaSyDgemrGzSAhoF-e2HdwEEqz2VdAu7EUH0s",
   authDomain: "inspiration-app-80750.firebaseapp.com",
